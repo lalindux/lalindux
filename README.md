@@ -57,10 +57,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalindux&show_icons=true&theme=radial" alt="lalindux stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalindux&layout=compact&theme=radial" alt="lalindux languages" width="48%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=lalindux&show_icons=true&theme=dark" alt="lalindux stats" width="48%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs?username=lalindux&layout=compact&theme=dark" alt="lalindux languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalindux&theme=radial" alt="lalindux streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalindux&theme=dark" alt="lalindux streak" />
 </p>
